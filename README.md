@@ -1,2 +1,1 @@
-# testrepo
-It's a markdown file in this repository.
+This repository contains all of the projects done by me during the IBM Data Science courses.
